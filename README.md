@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nggialac - a student at Posts and Telecommunications Institute of Technology (HCM)
+- 👋 Hi, I’m Nguyen Gia Lac, 22 years old.
 - 👀 I’m interested in playing guitar, games, reading book,... and coding.
 - 🌱 I’m currently learning Java (Spring Framework), ReactJS, Mobile App,...
 - 📫 Contact me: 
