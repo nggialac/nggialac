@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java (Spring Framework), ReactJS, Mobile App,...
 - 📫 Contact me: 
   Email: nggialac99@gmail.com
-  Facebook: https://www.facebook.com/lacnguyen99/
+  LinkedIn: https://www.linkedin.com/in/nggialac99/
 
 <!---
 nggialac/nggialac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
