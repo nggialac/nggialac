@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nguyen Gia Lac,
 - 👀 I’m interested in playing guitar, games, reading book,... and coding.
-- 🌱 I’m currently learning Java (Spring Framework), Go, ReactJS, Mobile App, deployment tools... 
+- 🌱 I’m currently learning Go, Java (Spring Framework), deployment tools...  (BE dev)
 - 📫 Contact me: 
   Email: nggialac99@gmail.com
   LinkedIn: https://www.linkedin.com/in/nggialac99/
