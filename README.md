@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nggialac&label=Profile%20views&color=0e75b6&style=flat" alt="nggialac" /> </p>
 
-- 🔭 I’m currently working on Go, JS.
+- 🔭 I’m currently working on Go,....
 
 - 📫 How to reach me **nggialac99@gmail.com**
 
